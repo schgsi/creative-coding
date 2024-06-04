@@ -16,7 +16,7 @@ function preload() {
     // txt = loadStrings("theSunIsAlsoAStar.txt");
     txt = loadStrings("mail.txt");
     // font = loadFont('Futurafuturisblackc.otf');
-    font = loadFont('../_fonts/AnonymousPro-Regular.ttf');
+    font = loadFont("../_fonts/AnonymousPro-Regular.ttf");
 }
 
 function setup() {
